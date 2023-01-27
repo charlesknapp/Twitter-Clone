@@ -33,5 +33,5 @@ https://lucid.app/lucidchart/ca1b1f32-3556-4777-9d0c-c311466e1d4d/edit?viewport_
 - MulterFS Storage (Form file middleware)
 - Helmet (Request content safety)
 - Morgan (Logging information)
-> JSONWebToken 		- Authentication
-> Mongoose 		- Database integration
+- JSONWebToken (Authentication)
+- Mongoose (Database integration)
