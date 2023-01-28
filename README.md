@@ -1,4 +1,4 @@
-# Twitter Clone Application
+# Twitly - Social Media Application
 <img src="https://i.ibb.co/XVx19cP/twitterclone-demo.png">
 A simple social media, twitter-like clone.<br>
 Built with the full MERN-stack, you can use this to create your next social media application.
