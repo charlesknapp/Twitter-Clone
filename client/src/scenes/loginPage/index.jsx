@@ -14,7 +14,7 @@ const LoginPage = () => {
         textAlign="center"
       >
         <Typography fontWeight="bold" display="flex" alignItems="center" gap="0.5rem" justifyContent="center" fontSize="32px" color="primary">
-          <FaTwitter /> Twitly
+          <a href="/"><FaTwitter /> Twitly</a>
         </Typography>
       </Box>
 
