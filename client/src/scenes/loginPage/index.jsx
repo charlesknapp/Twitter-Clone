@@ -1,5 +1,6 @@
 import { Box, Typography, useTheme, useMediaQuery } from "@mui/material";
 import Form from "./Form";
+import { FaTwitter } from "react-icons/fa";
 
 const LoginPage = () => {
   const theme = useTheme();
@@ -12,8 +13,8 @@ const LoginPage = () => {
         p="1rem 6%"
         textAlign="center"
       >
-        <Typography fontWeight="bold" fontSize="32px" color="primary">
-          Span.TO
+        <Typography fontWeight="bold" display="flex" alignItems="center" gap="0.5rem" justifyContent="center" fontSize="32px" color="primary">
+          <FaTwitter /> Twitly
         </Typography>
       </Box>
 
@@ -24,8 +25,8 @@ const LoginPage = () => {
         borderRadius="1.5rem"
         backgroundColor={theme.palette.background.alt}
       >
-        <Typography fontWeight="500" variant="h5" sx={{ mb: "1.5rem" }}>
-          Welcome to Span! The developer community board!
+        <Typography fontWeight="500" variant="h5" sx={{ textAlign: "center", mb: "1.5rem" }}>
+          Twitly is a simple social media application
         </Typography>
         <Form />
       </Box>

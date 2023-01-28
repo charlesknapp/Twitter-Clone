@@ -217,7 +217,7 @@ const Form = () => {
               name="email"
               error={Boolean(touched.email) && Boolean(errors.email)}
               helperText={touched.email && errors.email}
-              sx={{ gridColumn: "span 4" }}
+              sx={{ "& input:-internal-autofill-selected": { WebkitBoxShadow: `0 0 0 1000px ${palette.primary.light} inset`, }, gridColumn: "span 4" }}
             />
             <TextField
               label="Password"
@@ -228,7 +228,7 @@ const Form = () => {
               name="password"
               error={Boolean(touched.password) && Boolean(errors.password)}
               helperText={touched.password && errors.password}
-              sx={{ gridColumn: "span 4" }}
+              sx={{ "& input:-internal-autofill-selected": { WebkitBoxShadow: `0 0 0 1000px ${palette.primary.light} inset`, }, gridColumn: "span 4" }}
             />
           </Box>
 
