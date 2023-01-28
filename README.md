@@ -1,5 +1,7 @@
-# SPAN.TO - Social Media Application
-A simple social media, twitter-like clone. Built with the full MERN-stack, you can use this to create your next social media application.
+# Twitly - Social Media Application
+<a href="https://twitly.vercel.app/"><img src="https://i.ibb.co/XVx19cP/twitterclone-demo.png"></a>
+A simple social media, twitter-like clone.<br>
+Built with the full MERN-stack, you can use this to create your next social media application.
 
 ## Entity Relationships
 https://lucid.app/lucidchart/ca1b1f32-3556-4777-9d0c-c311466e1d4d/edit?viewport_loc=-45%2C-98%2C2401%2C1154%2C0_0&invitationId=inv_bc40d589-2094-4b22-a4a2-a88704e12c95
