@@ -1,5 +1,5 @@
 # Twitly - Social Media Application
-<img src="https://i.ibb.co/XVx19cP/twitterclone-demo.png">
+<a href="https://twitly-psi.vercel.app"><img src="https://i.ibb.co/XVx19cP/twitterclone-demo.png"></a>
 A simple social media, twitter-like clone.<br>
 Built with the full MERN-stack, you can use this to create your next social media application.
 
